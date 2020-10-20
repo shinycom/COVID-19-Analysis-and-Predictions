@@ -5,11 +5,11 @@ This repository is a machine learning case study, analysis, visualization and pr
 You are welcome to contribute to the notebook, leave feedbacks and any suggestions. Thx in advance. 
 
 # Kaggle 
-Follow me on Kaggle
+<br>Follow me on Kaggle<\br>
 
 # DataSet  
 
-https://github.com/CSSEGISandData/COVID-19<br>
+<br>https://github.com/CSSEGISandData/COVID-19<\br>
 
 
 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE This dataset is updated daily by Johns Hopkins CSSE.<br>
