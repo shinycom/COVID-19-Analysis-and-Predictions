@@ -12,9 +12,9 @@ Follow me on Kaggle
 https://github.com/CSSEGISandData/COVID-19<br>
 
 
-2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE This dataset is updated daily by Johns Hopkins CSSE.
+2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE This dataset is updated daily by Johns Hopkins CSSE.<br>
 
-Dataset consists of time-series data from 22 JAN 2020 to Till date (Updated on daily Basis).
+Dataset consists of time-series data from 22 JAN 2020 to Till date (Updated on daily Basis).<br>
 Three Time-series dataset (Depricated):
 
 time_series_19-covid-Confirmed.csv (Link Raw File)
