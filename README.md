@@ -1,2 +1,3 @@
 # COVID-19-Analysis-and-Predictions
-COVID-19 analysis and prediction 
+This repository is a machine learning case study, analysis, visualization and prediciton of COVID-19 Pandemic in 2020.
+
