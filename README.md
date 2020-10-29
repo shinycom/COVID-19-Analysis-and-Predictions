@@ -9,16 +9,15 @@ You are welcome to contribute to the notebook, leave feedbacks and any suggestio
 
 # DataSet  
 
-**2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [[Github Link]](https://github.com/CSSEGISandData/COVID-19)**
+**2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [(Github Link)](https://github.com/CSSEGISandData/COVID-19)**
 
-Dataset consists of time-series data from 22 JAN 2020 to Till date (Updated on daily Basis).<br>
+Daily Updated Time-series dataset since 22 Jan 2020:
 
-Daily Updated Time-series dataset:
+  time_series_covid19_confirmed_global.csv [(Github Link)](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
 
-time_series_covid19_confirmed_global.csv (Link Raw File)
-
-time_series_covid19_deaths_global (Link Raw File)
+  time_series_covid19_deaths_global [(Github Link)](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+)
 
 New Dataset (Updated more frequently by web crawler of JHU):
 
-cases_country.csv (Link Raw File)
+  cases_country.csv (Link Raw File)
