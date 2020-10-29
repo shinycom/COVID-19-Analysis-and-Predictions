@@ -11,7 +11,7 @@ You are welcome to contribute to the notebook, leave feedbacks and any suggestio
 
 **2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE [(Github Link)](https://github.com/CSSEGISandData/COVID-19)**
 
-Daily Updated Time-series dataset since 22 Jan 2020:
+**Daily Updated Time-series dataset since 22 Jan 2020:**
 
   -> time_series_covid19_confirmed_global.csv [(Github Link)](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
 
