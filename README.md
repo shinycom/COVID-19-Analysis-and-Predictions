@@ -13,9 +13,9 @@ You are welcome to contribute to the notebook, leave feedbacks and any suggestio
 
 Daily Updated Time-series dataset since 22 Jan 2020:
 
-  time_series_covid19_confirmed_global.csv [(Github Link)](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
+  -> time_series_covid19_confirmed_global.csv [(Github Link)](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
 
-  time_series_covid19_deaths_global [(Github Link)](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+  -> time_series_covid19_deaths_global [(Github Link)](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
 )
 
 New Dataset (Updated more frequently by web crawler of JHU):
